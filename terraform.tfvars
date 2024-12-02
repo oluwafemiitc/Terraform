@@ -1,0 +1,5 @@
+resource_group_name = "rg-aztraining-cat-uk"
+project_name        = "myproject"
+vm_size             = "Standard_B1s"
+admin_username      = "azureuser"
+admin_password      = "P@ssword1234!"
